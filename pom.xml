@@ -23,6 +23,8 @@
 		<module>LoginService</module>
 		<module>discovery-server</module>
 		<module>APIGateway</module>
+		<module>admins-service</module>
+		<module>configs-server</module>
 	</modules>
 	
 	<dependencyManagement>
